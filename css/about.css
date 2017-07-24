@@ -1,0 +1,203 @@
+.parallux {
+  height: 300px !important;
+  /*z-index: 1;*/
+   }
+/*   .parallux .parallux-bg .parallux-inner .text p {
+  font-size: 22px; }
+.parallux .parallux-bg .parallux-inner.bg-header {
+  background-image: url(../img/1.jpg);
+  } */
+
+	#about .box{
+			padding: 4rem;
+			background: #fff;
+			position: relative;
+			z-index: 9;
+		}
+
+		#about .box img{
+			width: 100%;
+		}
+		#about .box h2{
+			color: #fe3266;
+			margin-top: 0;
+			font-weight: bold;
+		}
+		#about .box h4{
+			margin: 0;
+			margin-top: 50px;
+		}  
+
+#about .box2 h4{
+			margin: 0;
+			margin-top: 10px;
+		} 		
+	#about .box a.btn{
+		border-radius: 20px;
+	}
+
+			#text{
+		background: #f2f2f2;
+		padding: 80px;
+	}
+
+	#banner{
+		margin-top: 50px;
+
+		padding: 0;
+	}
+
+	#services.box ,#clients.box{
+		background: #f2f2f2;
+		padding: 10px;
+	}
+	#services h3,#clients h3{
+	margin: 0;
+	}
+
+
+
+
+
+
+
+
+#YOHO{background: #000;}
+    #YOHO .box{
+        background: #000 !important;
+        color:#fff;
+        padding: 10px;
+        padding-bottom: 100px;
+    }
+    #YOHO .box h2{
+        margin: 0;
+        font-size: 2rem;
+        color:#fff;
+        padding: 20px;
+    }
+    #YOHO .box h3{
+        margin-top: 0;
+    }
+     #YOHO .box h3 img{
+        max-width: 100%;
+        width: auto;
+     }
+     #YOHO .box .line{
+        height: 5px;
+        width: 10%;
+        margin: 0 auto;
+        background: #fff;
+        margin-bottom: 100px;
+     }
+
+    #YOHO .box .line2{
+        height: 6px;
+        width: 10%;
+        background: #ff3366;
+     }   
+     #YOHO .box .leftbox p{
+        padding: 0;
+        margin: 0;
+        font-size: 12px;
+        color: #ccc;
+     }
+     #YOHO .box .leftbox img{
+        margin-top: 20px;
+     }
+
+	.date{
+    font-size: 20px;
+    color: #f36;
+    margin-right: 10px;
+
+}
+    .rightbox{
+        width: 200px;
+        margin: 0 auto;
+        position: relative;
+        margin-top:120px;
+    }
+    .rightbox .prev{
+        position: absolute;
+        top:50%;
+        margin-top: -8px;
+        margin-left: -80px;
+        left: 0;
+        width: 30px;
+        height: 30px;
+        border:#fff 1px solid;
+        border-radius: 50%;
+        padding: 6px 6px 6px 8px;
+    }
+
+    .rightbox .next{
+        position: absolute;
+        top:50%;
+        margin-top: -8px;
+        margin-right: -80px;
+        right: 0;
+        width: 30px;
+        height: 30px;
+        border:#fff 1px solid;
+        border-radius: 50%;
+        padding: 6px 6px 6px 8px;        
+    }
+    .rightbox .prev a{
+        display: block;
+        width: 10px;
+        height: 17px;
+        background: url(../img/arrow-l.png) no-repeat center;
+        background-size: 100%;
+    } 
+    .rightbox .next a{
+        display: block;
+        width: 10px;
+        height: 17px;
+         background: url(../img/arrow-r.png) no-repeat center;
+        background-size: 100%;             
+    }
+
+    .tel400{
+        margin-top: 6px;
+        padding-top: 6px;
+        border-top: 1px solid #ccc;
+        font-size: 16px;
+        color: #ccc;
+    }
+    .tel400 i{
+        float: left;
+        width: 15px;
+        height: 15px;
+        background: url(../img/t.png) no-repeat center;
+        background-size:90%; 
+        margin-right: 10px;
+    }
+    #about .box a.ico {
+        margin-right: 5px;
+        background: url(../img/six2.png) no-repeat center;
+        background-size:100%;
+        width: 40px;display: inline-block;
+        padding: 10px;
+    }
+    #about .box a.ico:hover{
+         background: url(../img/six.png) no-repeat center;
+    }
+    #about .box a.ico img{
+        width: 100%;
+    }
+    .tel400{
+
+    }
+
+    #timeline{
+    	position: relative;
+		
+        overflow-x: hidden;
+        height:100px;
+        margin-top: 100px;
+        width: 100%;
+    }
+    #timeline img{
+        width: 200% !important;
+
+    }

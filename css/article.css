@@ -1,0 +1,528 @@
+	@media only screen and (min-width:992px) {
+		.banner img {
+			margin-top: 63px;
+		}
+	}
+	
+	@media only screen and (min-width:767px) {
+		.banner img {
+			margin-top: 63px;
+		}
+	}
+	
+	@media only screen and (max-width:767px) {
+		.banner img {
+			margin-top: 63px;
+		}
+	}
+	
+	body {
+		background: #f0f0f0;
+	}
+	
+	.banner1 {
+		position: relative;
+		margin-top: 66px;
+	}
+	
+	.bg {
+		position: relative;
+		z-index: 2;
+	}
+	
+	.bg-white {
+		background: #FFFFFF;
+		height: 100%;
+		padding: 0 63px;
+		border-radius: 20px;
+		margin-top: 43px;
+	}
+	
+	p {
+		margin: 0 10px;
+	}
+	
+	.article-top .the {
+		margin-top: 36px;
+	}
+	
+	.service img {
+		margin: 0 auto;
+	}
+	
+	.service .pic {
+		margin-bottom: 84px;
+	}
+	
+	.share {
+		position: relative;
+	}
+	
+	.share img {
+		float: left;
+		padding: 0 68px;
+		margin-top: -20px;
+	}
+	
+	.sh {
+		width: 50%;
+		margin: 0 auto;
+	}
+	
+	.share img:hover {
+		opacity: 0.8;
+	}
+	
+	.sh img {
+		cursor: pointer;
+	}
+	
+	.article {
+		margin-top: 46px;
+	}
+	
+	.article a:hover {
+		color: #ff3366;
+	}
+	
+	.article a {
+		text-decoration: none;
+		color: #333333;
+		line-height: 30px;
+		cursor: pointer;
+	}
+	
+	.fenxiang {
+		padding: 40px 0;
+		padding-top: 13px;
+	}
+	
+	.fenxiang div {
+		float: left;
+		padding: 0 8px;
+	}
+	
+	.fenxiang div img {
+		cursor: pointer;
+		padding-right: 7px;
+	}
+	
+	@media only screen and (max-width: 500px) {
+		.container p {
+			font-size: 12px;
+		}
+		.article a {
+			font-size: 12px;
+		}
+	}
+	
+	@media only screen and (max-width:512px) {
+		.fenxiang div img {
+			padding-right: 2px;
+		}
+		.fenxiang div {
+			padding: 0;
+			font-size: 12px;
+		}
+	}
+	
+	@media only screen and (min-width: 992px) and (max-width: 1199px) {
+		.fenxiang div {
+			padding: 0;
+		}
+	}
+	
+	@media only screen and (max-width: 1199px) {
+		.share img {
+			padding: 0 55px;
+		}
+	}
+	
+	@media only screen and (max-width: 991px) {
+		.share img {
+			padding: 0 34px;
+		}
+	}
+	
+	@media only screen and (max-width: 767px) {
+		.share img {
+			padding: 0 20px;
+		}
+	}
+	
+	@media only screen and (max-width: 562px) {
+		.share img {
+			padding: 3px 6px;
+			width: 42px;
+		}
+	}
+	
+	@media only screen and (max-width: 562px) {
+		.share {
+			margin-left: 6px;
+		}
+	}
+	
+	.container h3 {
+		margin-bottom: 20px;
+	}
+	
+	.container .box:hover {
+		box-shadow: 0 0 1 #000000;
+	}
+	
+	.container {
+		margin-bottom: 78px;
+		margin-top: -66px;
+	}
+	
+	.box {
+		background: #ffffff;
+		margin-bottom: 33px;
+		border-radius: 10px;
+	}
+	
+	.container .box .responsive {
+		width: 100%;
+	}
+	
+	.box:hover {
+		box-shadow: 0px 6px 13px 2px #dadada;
+	}
+	
+	@media (min-width: 768px) {
+		.navbar-right {
+			float: right!important;
+			margin-right: -35px;
+		}
+	}
+	
+	@media only screen and (min-width: 1280px) and (max-width: 1640px) {
+		.bg-white {
+			margin-top: 10px;
+		}
+	}
+	
+	@media only screen and (min-width: 992px) and (max-width: 1279px) {
+		.bg-white {
+			margin-top: 25px;
+		}
+	}
+	
+	@media only screen and (min-width: 767px) and (max-width: 991px) {
+		.bg-white {
+			margin-top: 33px;
+		}
+	}
+	
+	@media only screen and (min-width: 1641px) and (max-width: 1920px) {
+		.bg-white {
+			margin-top: -5px;
+		}
+	}
+	
+	@media only screen and (min-width: 480px) (max-width: 767px) {
+		.bg-white {
+			margin-top: 54px;
+		}
+	}
+	
+	.fenxiang .pic-1:hover {
+		background: url("../images/share2.png") no-repeat 0 -48px;
+		width: 16px;
+		height: 10px;
+	}
+	
+	.fenxiang .pic-1 {
+		background: url("../images/share2.png") no-repeat;
+		width: 16px;
+		height: 10px;
+		margin: 6px;
+		float: left;
+	}
+	
+	.fenxiang .pic-2 {
+		background: url("../images/share2.png") no-repeat 0 -15px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+		float: left;
+	}
+	
+	.fenxiang .pic-2:hover {
+		background: url("../images/share2.png") no-repeat 0 -63px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+	}
+	
+	.fenxiang .pic-3 {
+		background: url("../images/share2.png") no-repeat 0 -30px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+		float: left;
+	}
+	
+	.fenxiang .pic-3-1 {
+		background: url("../images/share2.png") no-repeat 0 -30px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+		float: left;
+	}
+	
+	.fenxiang .pic-3-2 {
+		background: url("../images/share2.png") no-repeat 0 -30px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+		float: left;
+	}
+	
+	.fenxiang .pic-3-3 {
+		background: url("../images/share2.png") no-repeat 0 -30px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+		float: left;
+	}
+	
+	.fenxiang .pic-3-4 {
+		background: url("../images/share2.png") no-repeat 0 -30px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+		float: left;
+	}
+	
+	.fenxiang .pic-3:hover {
+		background: url("../images/share2.png") no-repeat 0 -78px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+	}
+	
+	.fenxiang .pic-3-2:hover {
+		background: url("../images/share2.png") no-repeat 0 -78px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+	}
+	
+	.fenxiang .pic-3-1:hover {
+		background: url("../images/share2.png") no-repeat 0 -78px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+	}
+	
+	.fenxiang .pic-3-3:hover {
+		background: url("../images/share2.png") no-repeat 0 -78px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+	}
+	
+	.fenxiang .pic-3-4:hover {
+		background: url("../images/share2.png") no-repeat 0 -78px;
+		width: 16px;
+		height: 14px;
+		margin: 3px;
+		margin-right: 4px;
+	}
+	
+	.container .fl {
+		float: left;
+	}
+	
+	.container .fr {
+		float: right;
+		margin-top: -30px;
+	}
+	
+	.service {
+		margin-top: 40px;
+	}
+	
+	.service div {
+		font-family: "微软雅黑";
+		font-size: 22px;
+	}
+	
+	.article-top p {
+		font-family: "微软雅黑";
+		font-size: 16px;
+	}
+	
+	.article-top span {
+		color: #999999;
+		float: left;
+	}
+	
+	.article-top {
+		padding-top: 50px;
+	}
+	
+	.box p:hover {
+		color: #ff3366;
+		cursor: pointer;
+	}
+	
+	.service p {
+		font-size: 16px;
+	}
+	
+	.fenxiang .pic-4 {
+		background: url(../images/share1.png)no-repeat;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-4:hover {
+		background: url(../images/share1.png)no-repeat 0 -110px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-5 {
+		background: url(../images/share1.png)no-repeat 0 -20px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-5:hover {
+		background: url(../images/share1.png)no-repeat 0 -130px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-6 {
+		background: url(../images/share1.png)no-repeat 0 -40px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-6:hover {
+		background: url(../images/share1.png)no-repeat 0 -150px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-7 {
+		background: url(../images/share1.png)no-repeat 0 -62px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-7:hover {
+		background: url(../images/share1.png)no-repeat 0 -172px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-8 {
+		background: url(../images/share1.png)no-repeat 0 -85px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.fenxiang .pic-8:hover {
+		background: url(../images/share1.png)no-repeat 0 -195px;
+		width: 20px;
+		height: 20px;
+	}
+	
+	.tu {
+		float: right;
+		margin-left: 10px;
+		margin-top: -85px;
+		position: relative;
+		display: none;
+	}
+	
+	.tu div {
+		float: none;
+	}
+	
+	.fenxiang span {
+		float: left;
+	}
+	
+	.tu1 {
+		float: right;
+		margin-left: 10px;
+		margin-top: -85px;
+		position: relative;
+		display: none;
+	}
+	
+	.tu1 div {
+		float: none;
+	}
+	
+	.tu2 {
+		float: right;
+		margin-left: 10px;
+		margin-top: -85px;
+		position: relative;
+		display: none;
+	}
+	
+	.tu2 div {
+		float: none;
+	}
+	
+	.tu3 {
+		float: right;
+		margin-left: 10px;
+		margin-top: -85px;
+		position: relative;
+		display: none;
+	}
+	
+	.tu3 div {
+		float: none;
+	}
+	
+	.tu4 {
+		float: right;
+		margin-left: 10px;
+		margin-top: -85px;
+		position: relative;
+		display: none;
+	}
+	
+	.tu4 div {
+		float: none;
+	}
+	
+	@media only screen and (max-width: 460px) {
+		.container .fr {
+			float: none;
+			margin-top: 0;
+		}
+	}
+	
+	@media only screen and (max-width: 640px) {
+		.service p {
+			font-size: 12px;
+		}
+		.article-top p {
+			font-size: 12px;
+		}
+		.bg-white h3 {
+			font-size: 16px;
+		}
+	}

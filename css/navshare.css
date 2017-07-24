@@ -1,0 +1,195 @@
+	.bgcolor {
+	background: #f0f0f0;
+}
+.navbar-header button {
+    margin-top: 20px;
+}
+.collapse input {
+	border-radius: 20px;
+	border: 1px solid#808080;
+	position: relative;
+	outline: none;
+	
+	padding-left: 50px;
+	margin-top: 20px;
+	color: #b0b0b0;
+}
+
+.collapse a {
+	padding-left: 100px;
+}
+
+.collapse button {
+	background: url(../img/search.png)no-repeat;
+	width: 18px;
+	height: 18px;
+	border: 0;
+	position: absolute;
+	outline: none;
+	top: 24px;
+	right: 267px;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-header .logo img {
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.navbar-header span {
+	padding: 0 10px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+
+.container-fluid {
+	padding-right: 40px;
+	padding-left: 41px;
+}
+
+.navbar-toggle {
+	background: #ffffff;
+}
+
+.collapse a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.nav li a {
+	float: left;
+}
+
+.navbar-form {
+	margin-top: 0;
+	margin-bottom: 16px;
+}
+
+@media only screen and (min-width:767px) {
+	.form-control-feedback {
+		line-height: 75px;
+		left: 0;
+	}
+}
+
+.navbar-brand img {
+	width: 100px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 60px;
+}
+.dropdown a:hover{
+	opacity: 0.5;
+	}
+.has-feedback .form-control {
+	padding-right: 0;
+}
+
+.navbar-brand {
+	padding: 0;
+}
+
+@media only screen and (max-width:767px) {
+	.navbar-header {
+		height: 71px;
+	}
+}
+@media only screen and (min-width: 767px){
+.navbar-header {
+    height: 71px;
+}
+
+.navbar-toggle {
+	margin-top: 20px;
+}
+
+@media only screen and (max-width:767px) {
+	.form-control-feedback {
+		line-height: 35px;
+		left: 0;
+	}
+}
+
+@media (min-width: 768px) .navbar-nav>li>a {
+	padding-top: 25px;
+	padding-bottom: 15px;
+	padding-right: 0;
+}
+}
+.nav li a {
+	float: left;
+}
+@media (min-width: 768px) {
+	.navbar-nav>li>a {
+		padding-top: 27px;
+		padding-bottom: 15px;
+		padding-right: 0;
+	}
+}
+@media (min-width: 970px) {
+	.navbar-nav>li>a {
+		padding-top: 27px;
+		padding-bottom: 15px;
+		padding-right: 26px;
+	}
+}
+
+.navbar-right .dropdown a {
+	margin-right: 60px;
+}
+.navbar-form {
+	padding: 0;
+}
+@media (min-width: 767px)
+.navbar-right {
+    float: right!important;
+    margin-right: -38px;
+}
+.fenxiang .pic-1:hover{
+	background: url("../images/share2.png") no-repeat 0 -48px;
+	width: 16px;
+	height: 10px;
+	
+}
+.fenxiang .pic-1 {
+	background: url("../images/share2.png") no-repeat;
+	width: 16px;
+	height: 10px;
+	margin: 6px;
+}
+.fenxiang .pic-2 {
+	background: url("../images/share2.png") no-repeat 0 -15px;
+	width: 16px;
+	height: 14px;
+	margin: 3px;
+	margin-right: 4px;
+}
+.fenxiang .pic-2:hover {
+	background: url("../images/share2.png") no-repeat 0 -63px;
+	width: 16px;
+	height: 14px;
+	margin: 3px;
+	margin-right: 4px;
+}
+.fenxiang .pic-3 {
+	background: url("../images/share2.png") no-repeat 0 -30px;
+	width: 16px;
+	height: 14px;
+	margin: 3px;
+	margin-right: 4px;
+}
+.fenxiang .pic-3:hover {
+	background: url("../images/share2.png") no-repeat 0 -78px;
+	width: 16px;
+	height: 14px;
+	margin: 3px;
+	margin-right: 4px;
+}
+@media only screen and (min-width: 364px) and (max-width: 512px) {
+	.fenxiang span{
+		padding: 0;
+	}
+}

@@ -1,0 +1,22 @@
+
+
+.st-cover { background-image: url("../images/banner1.jpg")}
+
+
+.st-cover-focus .st-btn {margin-top:0%;}
+
+
+
+#font{
+  margin: 10px auto;
+  padding: 20px;
+
+}
+#font h2{
+  margin: 15px 0;
+}
+#font p{
+  margin: 10px auto;
+  font-size: 142%;
+  width: 32%;
+}
